@@ -1,8 +1,6 @@
 #!/usr/bin/python
 '''Uploads a video to YouTube.'''
 
-# Nono Martínez Alonso
-# youtube.com/@NonoMartinezAlonso
 # https://github.com/youtube/api-samples/blob/master/python/upload_video.py
 
 import argparse
